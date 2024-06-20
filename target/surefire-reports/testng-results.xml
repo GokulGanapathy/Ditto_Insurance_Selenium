@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-19T13:24:32 IST" name="Suite" finished-at="2024-06-19T13:26:51 IST" duration-ms="138941">
+    <groups>
+    </groups>
+    <test started-at="2024-06-19T13:24:32 IST" name="Test" finished-at="2024-06-19T13:26:51 IST" duration-ms="138941">
+      <class name="Tests.InsurancePremiumTest">
+        <test-method signature="restAssureNivaTest()[pri:0, instance:Tests.InsurancePremiumTest@6caf0677]" started-at="2024-06-19T13:24:32 IST" name="restAssureNivaTest" finished-at="2024-06-19T13:26:51 IST" duration-ms="138811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restAssureNivaTest -->
+      </class> <!-- Tests.InsurancePremiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
